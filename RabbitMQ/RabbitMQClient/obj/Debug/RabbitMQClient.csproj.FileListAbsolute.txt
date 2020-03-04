@@ -1,0 +1,17 @@
+E:\Code\麦克风音频采集\AudioRecord\RabbitMQClient\bin\Debug\RabbitMQClient.exe.config
+E:\Code\麦克风音频采集\AudioRecord\RabbitMQClient\bin\Debug\RabbitMQClient.exe
+E:\Code\麦克风音频采集\AudioRecord\RabbitMQClient\bin\Debug\RabbitMQClient.pdb
+E:\Code\麦克风音频采集\AudioRecord\RabbitMQClient\bin\Debug\RabbitMQ.Client.dll
+E:\Code\麦克风音频采集\AudioRecord\RabbitMQClient\bin\Debug\RabbitMQ.Client.xml
+E:\Code\麦克风音频采集\AudioRecord\RabbitMQClient\obj\Debug\MainWindow.g.cs
+E:\Code\麦克风音频采集\AudioRecord\RabbitMQClient\obj\Debug\App.g.cs
+E:\Code\麦克风音频采集\AudioRecord\RabbitMQClient\obj\Debug\RabbitMQClient_MarkupCompile.cache
+E:\Code\麦克风音频采集\AudioRecord\RabbitMQClient\obj\Debug\RabbitMQClient_MarkupCompile.lref
+E:\Code\麦克风音频采集\AudioRecord\RabbitMQClient\obj\Debug\MainWindow.baml
+E:\Code\麦克风音频采集\AudioRecord\RabbitMQClient\obj\Debug\RabbitMQClient.g.resources
+E:\Code\麦克风音频采集\AudioRecord\RabbitMQClient\obj\Debug\RabbitMQClient.Properties.Resources.resources
+E:\Code\麦克风音频采集\AudioRecord\RabbitMQClient\obj\Debug\RabbitMQClient.csproj.GenerateResource.cache
+E:\Code\麦克风音频采集\AudioRecord\RabbitMQClient\obj\Debug\RabbitMQClient.csproj.CoreCompileInputs.cache
+E:\Code\麦克风音频采集\AudioRecord\RabbitMQClient\obj\Debug\RabbitMQClient.csproj.CopyComplete
+E:\Code\麦克风音频采集\AudioRecord\RabbitMQClient\obj\Debug\RabbitMQClient.exe
+E:\Code\麦克风音频采集\AudioRecord\RabbitMQClient\obj\Debug\RabbitMQClient.pdb
